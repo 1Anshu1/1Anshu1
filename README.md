@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anshu Kumar</h1>
 <h2 align="center">Passionate frontend-focused full stack developer.</h2>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=1anshu1&label=Profile%20views&color=000000&style=plastic" alt="1anshu1" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=1anshu1&label=Profile%20views&color=6603ad&style=plastic" alt="1anshu1" /> </p>
 
 - 💬 Ask me about **React, Javascript, Node.js**
 
